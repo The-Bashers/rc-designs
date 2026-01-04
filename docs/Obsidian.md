@@ -17,7 +17,7 @@ Press `CTRL+,` / `CMD+,`and under *Community Plugin* -> (understand the risk her
 Then click on: *Enable*
 
 In *Options* for the *Obsidian Git* plugin you need to set automatic push and pull:
-![[Pasted image 20260104134245.png]]
+![Options for the Obsidian Git plugin](Pasted%20image%2020260104134245.png)
 
 From this point on all of your changes will automatically push to the server that you make on that machine (as long as Obsidian is open) and if new designs are pushed it will automatically pull them.
 
