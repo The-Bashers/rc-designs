@@ -18,6 +18,6 @@ When adding new parts:
 - **Supports**: Required for most parts - see individual part READMEs
 
 # Tools
-- [[Obsidian]]
+- [Obsidian](docs/Obsidian.md)
 # Cars
 - [TT-02](./tt02/README.md)
